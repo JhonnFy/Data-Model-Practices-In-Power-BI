@@ -19,3 +19,10 @@ We need to analyze key indicators for our pizza sales data to gain insights into
 ![thre](https://github.com/JhonnFy/Data-Model-Practices-In-Power-BI/assets/97255802/839aaf4e-75e9-4987-abbb-2c99d6cc6440)
 ![Four](https://github.com/JhonnFy/Data-Model-Practices-In-Power-BI/assets/97255802/c8156335-4cdb-4c34-9ebe-1247226b356e)
 ![Five](https://github.com/JhonnFy/Data-Model-Practices-In-Power-BI/assets/97255802/49b13aee-2961-4543-b5f4-caa5400508cf)
+
+### Measure
+###### AvgOrderValue = ([TotalRevenue] / [TotalOrders])
+###### AvgPizzasPerOrder = ([TotalPizzasSold] / [TotalOrders])
+###### TotalOrders = DISTINCTCOUNT(pizza_sales[order_id])
+###### TotalPizzasSold = SUM(pizza_sales[quantity])
+###### TotalRevenue = SUM(pizza_sales[total_price])

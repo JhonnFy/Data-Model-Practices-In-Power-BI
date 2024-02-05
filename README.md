@@ -20,6 +20,7 @@ We need to analyze key indicators for our pizza sales data to gain insights into
 ![Four](https://github.com/JhonnFy/Data-Model-Practices-In-Power-BI/assets/97255802/c8156335-4cdb-4c34-9ebe-1247226b356e)
 ![Five](https://github.com/JhonnFy/Data-Model-Practices-In-Power-BI/assets/97255802/49b13aee-2961-4543-b5f4-caa5400508cf)
 
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
 ## Measure
 ###### AvgOrderValue = ([TotalRevenue] / [TotalOrders])

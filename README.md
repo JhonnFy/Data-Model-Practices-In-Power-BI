@@ -28,3 +28,5 @@ We need to analyze key indicators for our pizza sales data to gain insights into
 ###### TotalOrders = DISTINCTCOUNT(pizza_sales[order_id])
 ###### TotalPizzasSold = SUM(pizza_sales[quantity])
 ###### TotalRevenue = SUM(pizza_sales[total_price])
+
+![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)

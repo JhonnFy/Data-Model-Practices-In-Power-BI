@@ -2,6 +2,8 @@
 
 ### Requirement
 ###### Data
+![Bi](https://github.com/JhonnFy/Data-Model-Practices-In-Power-BI/assets/97255802/6efdd72f-41e5-427e-a0bf-9e32f666f935)
+
 We need to analyze key indicators for our pizza sales data to gain insights into our business performance. Specifically, we want to calculate the following metrics
 
 ###### 1-Total Revenue: The sum of the total price of all pizza ordrs.
